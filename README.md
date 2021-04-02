@@ -95,7 +95,7 @@ The flag format is: EGCTF{UPPER_CASE_TEXT_0R_NUMBER}
 
 ###### Solution: 
 
- We’re given a `mp3` file called `noise.mp3` by listening to it, I knew that it is a morse code but it sounds like it is multiple track with different frequency in the same track anyway started right away by using [morsecode.scphillips.com/labs/audio-decoder-adaptive](https://morsecode.scphillips.com/labs/audio-decoder-adaptive/) to play and decode the morse code:
+ We’re given a `mp3` file called `noise.mp3` by listening to it, I knew that it is a morse code but it sounds like it is multiple track with different frequency in the same track anyway started right away by using [morsecode.world/international/decoder/audio-decoder-adaptive.html](https://morsecode.world/international/decoder/audio-decoder-adaptive.html) to play and decode the morse code:
 
 ![](https://github.com/XxsenchixX/EGCTF-2019-Qualification-Round/blob/master/IMGs/decoder.png?raw=true)
 
